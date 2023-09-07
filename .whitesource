@@ -28,6 +28,11 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
-    }
+    },
+    
+    "enableRenovate": false,
+     "extends": ["config:base", ":disableRateLimiting"],
+     "dependencyDashboard" :true
+  
   }
 }
