@@ -33,6 +33,6 @@
      "extends": ["config:base", ":disableRateLimiting"],
      "dependencyDashboard" :true
   
-  }
+  } 
 }
 
